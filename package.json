@@ -16,6 +16,7 @@
     "@babel/plugin-transform-parameters": "7.13.0",
     "@babel/plugin-transform-member-expression-literals": "7.12.13",
     "glimmer-benchmark": "0.65.3",
+    "wrangler":"2.1.7",
     "@babel/plugin-transform-block-scoping": "7.11.1",
     "@glimmer/runtime": "0.79.2",
     "@glimmer/local-debug-flags": "0.57.2",
