@@ -10,7 +10,16 @@
   "author": "Your Name",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "@glimmer/util": "0.61.0",
+    "@glimmer/vm": "0.76.0",
+    "@babel/plugin-transform-parameters": "7.13.0",
+    "@babel/plugin-transform-member-expression-literals": "7.12.13",
+    "glimmer-benchmark": "0.65.3",
+    "@babel/plugin-transform-block-scoping": "7.11.1",
+    "@glimmer/runtime": "0.79.2",
+    "@glimmer/local-debug-flags": "0.57.2",
+    "@glimmer/interfaces": "0.57.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
