@@ -21,6 +21,7 @@
     "@glimmer/interfaces": "0.57.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "undici": "5.28.5"
   }
 }
